@@ -1,0 +1,2 @@
+Local run status: not run. Required tools missing: OMNeT++ opp_run, INET, Wireshark/tshark. Expected output path after running the simulation: results/capture.pcap.
+Wireshark filters: icmp; udp.port == 1000; arp.

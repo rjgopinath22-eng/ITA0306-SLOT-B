@@ -1,0 +1,6 @@
+gsm_a.dtap || gsm_a.bssmap || gsm_map || gsm_sms
+gtp || gtpv2
+s1ap
+ngap
+sctp
+udp.port == 2123

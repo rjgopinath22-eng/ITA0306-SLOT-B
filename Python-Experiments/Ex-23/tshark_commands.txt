@@ -1,0 +1,17 @@
+# Protocol hierarchy
+tshark -r trace.pcap -q -z io,phs
+
+# GSM signalling
+tshark -r gsm.pcap -Y "gsm_a.dtap || gsm_a.bssmap || gsm_map || gsm_sms"
+
+# GTP: inspect tunnel identifiers and messages
+tshark -r gtp.pcap -Y "gtp || gtpv2" -T fields -e frame.number -e ip.src -e ip.dst -e gtp.teid -e gtp.message
+
+# LTE S1AP procedure codes
+tshark -r s1ap.pcap -Y "s1ap" -T fields -e frame.number -e frame.time_relative -e s1ap.procedureCode
+
+# 5G NGAP procedure codes
+tshark -r ngap.pcap -Y "ngap" -T fields -e frame.number -e frame.time_relative -e ngap.procedureCode
+
+# SCTP conversations
+tshark -r trace.pcap -q -z conv,sctp

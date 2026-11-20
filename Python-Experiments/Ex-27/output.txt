@@ -1,0 +1,2 @@
+Expected trend from the lab manual (not measured here): as UE count increases from 10 to 20 to 40, per-UE throughput decreases while end-to-end delay and packet loss rise.
+Local run status: no OMNeT++ .sca input files; Simu5G/INET simulation not available.

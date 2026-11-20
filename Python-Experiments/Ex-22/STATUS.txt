@@ -1,0 +1,1 @@
+Simulation status: Not run in this workspace. Required simulator/capture tools are unavailable. See README and Word report.

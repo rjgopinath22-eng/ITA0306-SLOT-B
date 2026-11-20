@@ -1,0 +1,8 @@
+Reference signalling sequence from the lab manual:
+MN <- Router Advertisement (foreign prefix)
+MN -> HA: Binding Update (home address to CoA)
+HA -> MN: Binding Acknowledgement
+CN -> HA: data to home address; HA tunnels packets to CoA
+Optional: Return Routability then Binding Update to CN
+
+Local run status: not run; OMNeT++ opp_run and INET are not present in this workspace.

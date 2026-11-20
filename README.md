@@ -43,3 +43,12 @@ The Figma file contains the editable diagrams, prototypes, and wireframes. The i
 - [Experiment 19: Handoff with Hysteresis](Python-Experiments/Ex-19/README.md)
 - [Experiment 20: CDMA Spreading and Despreading](Python-Experiments/Ex-20/README.md)
 - [Experiment 21: OFDMA Scheduler Throughput and Fairness](Python-Experiments/Ex-21/README.md)
+
+## OMNeT++ and Wireshark Experiments
+
+- [Experiment 22: Mobility and Handover in a Multi-Cell 5G LTE Network](Python-Experiments/Ex-22/README.md)
+- [Experiment 23: Cellular Protocol Analysis with Wireshark](Python-Experiments/Ex-23/README.md)
+- [Experiment 24: Mobile IP and Mobility Signalling](Python-Experiments/Ex-24/README.md)
+- [Experiment 25: Ad Hoc Routing DSDV versus AODV](Python-Experiments/Ex-25/README.md)
+- [Experiment 26: Capturing Simulation Traffic in Wireshark](Python-Experiments/Ex-26/README.md)
+- [Experiment 27: Mini Project Performance Evaluation of a Cellular Network](Python-Experiments/Ex-27/README.md)

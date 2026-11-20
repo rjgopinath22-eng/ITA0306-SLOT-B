@@ -1,0 +1,6 @@
+Expected trend checklist from the lab manual (no measured values):
+Packet delivery: AODV generally remains higher under high mobility; DSDV can drop when routes go stale.
+End-to-end delay: AODV can have first-packet route-discovery delay; DSDV can be lower after convergence.
+Routing overhead: DSDV sends periodic updates; AODV overhead depends on discovery and mobility.
+
+Local run status: not run; OMNeT++ opp_run and INET are unavailable.

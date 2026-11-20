@@ -1,0 +1,11 @@
+# Inspect captured protocol hierarchy
+tshark -r results/capture.pcap -q -z io,phs
+
+# ICMP echo traffic
+tshark -r results/capture.pcap -Y icmp
+
+# UDP application traffic
+tshark -r results/capture.pcap -Y "udp.port == 1000"
+
+# ARP resolution
+tshark -r results/capture.pcap -Y arp

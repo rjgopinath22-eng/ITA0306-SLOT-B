@@ -1,0 +1,7 @@
+Illustrative reference trace from the lab manual (not locally simulated):
+t=11.9 s ue[0]: measurement report - neighbour cell 2 stronger than serving cell 1
+t=11.9 s base 1: handover request sent to base 2 (X2)
+t=11.9 s base 2: handover admitted, resources reserved
+t=12.0 s ue[0]: attached to cell 2 - handover complete
+
+Local run status: not run; OMNeT++ opp_run, INET, and Simu5G are not present in this workspace.

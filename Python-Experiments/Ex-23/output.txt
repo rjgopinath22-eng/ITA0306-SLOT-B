@@ -1,0 +1,7 @@
+Reference message checklist from the lab manual:
+GSM: Location Updating, CM Service Request, Setup, Alerting, Connect, Release
+GTP: Create PDP Context Request/Response, G-PDU, Delete PDP Context
+S1AP: Initial UE Message, NAS Transport, Initial Context Setup Request/Response
+NGAP: NG Setup, Initial UE Message, Initial Context Setup, PDU Session Resource Setup
+
+Local run status: not run; no source PCAPs or Wireshark/tshark executable are available.
