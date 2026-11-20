@@ -23,3 +23,7 @@ Each experiment has its own folder and one-page PDF:
 - [Experiment 15: Ad Hoc Wireless Network Challenges](Figma-Experiments/Ex-15/Experiment-15.pdf)
 
 The Figma file contains the editable diagrams, prototypes, and wireframes. The individual PDFs are convenient for reviewing or submitting experiments separately.
+
+## Python Programming Experiments
+
+- [Experiment 16: Free-Space Path Loss and Received Power](Python-Experiments/Ex-16/README.md)
