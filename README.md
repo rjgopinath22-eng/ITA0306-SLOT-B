@@ -27,3 +27,5 @@ The Figma file contains the editable diagrams, prototypes, and wireframes. The i
 ## Python Programming Experiments
 
 - [Experiment 16: Free-Space Path Loss and Received Power](Python-Experiments/Ex-16/README.md)
+
+- [Experiment 16 Word report with code and results](Python-Experiments/Ex-16/Experiment-16-Report.docx)

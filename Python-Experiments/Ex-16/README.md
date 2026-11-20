@@ -29,3 +29,5 @@ At 900 MHz and 1 km, FSPL is about `91.52 dB` and received power is about `-33.5
 
 **Reference:** ITA03 Mobile Computing Laboratory Manual, Experiment 16, pages 34–36.
 
+
+Word report with aim, equations, calculated output, and full code: [Experiment 16 report](Experiment-16-Report.docx).
