@@ -1,0 +1,4 @@
+scheduler,total_throughput_bps_hz,jain_fairness_index
+RR,3.861136,0.741496
+MaxCI,7.906345,0.264240
+PF,5.576144,0.777783

@@ -1,0 +1,12 @@
+  N     D/R  ch/cell  Capacity C  S/I (dB)
+  1   1.732      420        4200      1.76
+  3   3.000      140        4200     11.30
+  4   3.464      105        4200     13.80
+  7   4.583       60        4200     18.66
+  9   5.196       46        4140     20.85
+ 12   6.000       35        4200     23.34
+ 13   6.245       32        4160     24.04
+ 16   6.928       26        4160     25.84
+
+Smallest cluster size meeting S/I >= 18.0 dB: N = 7
+Saved results.csv and frequency_reuse.svg

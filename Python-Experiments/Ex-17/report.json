@@ -1,0 +1,15 @@
+{
+  "number": 17,
+  "title": "Frequency Reuse Cluster Size Capacity and S I",
+  "aim": "Analyze how cluster size affects co-channel reuse ratio, system capacity, and signal-to-interference ratio in a cellular system.",
+  "parameters": [
+    "Total duplex channels S = 420",
+    "Cluster replications M = 10",
+    "Path-loss exponent n = 4",
+    "Six first-tier co-channel interferers",
+    "AMPS S/I requirement = 18 dB",
+    "Valid cluster sizes from N = i^2 + i*j + j^2"
+  ],
+  "method": "For each valid N compute Q = sqrt(3N), channels per cell k = floor(S/N), capacity C = M*k*N, and S/I = 10 log10(Q^n/6). Find the smallest cluster meeting 18 dB.",
+  "result": "The smallest cluster meeting the S/I target is N = 7, with S/I = 18.66 dB. Increasing N improves S/I while channels per cell generally decrease."
+}

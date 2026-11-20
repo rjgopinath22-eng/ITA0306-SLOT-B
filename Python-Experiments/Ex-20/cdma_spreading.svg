@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="480" viewBox="0 0 1120 480"><rect width="100%" height="100%" fill="white"/><style>text{font-family:Arial;fill:#172033}.g{stroke:#d9e0ec;stroke-dasharray:4 4}</style><text x="560" y="32" text-anchor="middle" font-size="21" font-weight="700">CDMA spreading and despreading</text>
+<text x="310.0" y="65" text-anchor="middle" font-size="16" font-weight="700">User 1 spread signal</text>
+<line class="g" x1="80" y1="365.0" x2="540" y2="365.0"/>
+<text x="72" y="369.0" text-anchor="end" font-size="10">-3</text>
+<line class="g" x1="80" y1="271.7" x2="540" y2="271.7"/>
+<text x="72" y="275.7" text-anchor="end" font-size="10">-1</text>
+<line class="g" x1="80" y1="178.3" x2="540" y2="178.3"/>
+<text x="72" y="182.3" text-anchor="end" font-size="10">1</text>
+<line class="g" x1="80" y1="85.0" x2="540" y2="85.0"/>
+<text x="72" y="89.0" text-anchor="end" font-size="10">3</text>
+<rect x="81.0" y="178.3" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="109.8" y="225.0" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="138.5" y="178.3" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="167.2" y="225.0" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="196.0" y="225.0" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="224.8" y="178.3" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="253.5" y="225.0" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="282.2" y="178.3" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="311.0" y="178.3" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="339.8" y="225.0" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="368.5" y="178.3" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="397.2" y="225.0" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="426.0" y="178.3" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="454.8" y="225.0" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="483.5" y="178.3" width="25.8" height="46.7" fill="#2563eb"/>
+<rect x="512.2" y="225.0" width="25.8" height="46.7" fill="#2563eb"/>
+<text x="310.0" y="390" text-anchor="middle" font-size="12">Chip index</text>
+<text x="845.0" y="65" text-anchor="middle" font-size="16" font-weight="700">Composite signal</text>
+<line class="g" x1="615" y1="365.0" x2="1075" y2="365.0"/>
+<text x="607" y="369.0" text-anchor="end" font-size="10">-4</text>
+<line class="g" x1="615" y1="295.0" x2="1075" y2="295.0"/>
+<text x="607" y="299.0" text-anchor="end" font-size="10">-2</text>
+<line class="g" x1="615" y1="225.0" x2="1075" y2="225.0"/>
+<text x="607" y="229.0" text-anchor="end" font-size="10">0</text>
+<line class="g" x1="615" y1="155.0" x2="1075" y2="155.0"/>
+<text x="607" y="159.0" text-anchor="end" font-size="10">2</text>
+<line class="g" x1="615" y1="85.0" x2="1075" y2="85.0"/>
+<text x="607" y="89.0" text-anchor="end" font-size="10">4</text>
+<rect x="616.0" y="190.0" width="25.8" height="35.0" fill="#2563eb"/>
+<rect x="644.8" y="225.0" width="25.8" height="105.0" fill="#2563eb"/>
+<rect x="673.5" y="190.0" width="25.8" height="35.0" fill="#2563eb"/>
+<rect x="702.2" y="190.0" width="25.8" height="35.0" fill="#2563eb"/>
+<rect x="731.0" y="225.0" width="25.8" height="35.0" fill="#2563eb"/>
+<rect x="759.8" y="225.0" width="25.8" height="35.0" fill="#2563eb"/>
+<rect x="788.5" y="225.0" width="25.8" height="35.0" fill="#2563eb"/>
+<rect x="817.2" y="120.0" width="25.8" height="105.0" fill="#2563eb"/>
+<rect x="846.0" y="190.0" width="25.8" height="35.0" fill="#2563eb"/>
+<rect x="874.8" y="190.0" width="25.8" height="35.0" fill="#2563eb"/>
+<rect x="903.5" y="190.0" width="25.8" height="35.0" fill="#2563eb"/>
+<rect x="932.2" y="225.0" width="25.8" height="105.0" fill="#2563eb"/>
+<rect x="961.0" y="190.0" width="25.8" height="35.0" fill="#2563eb"/>
+<rect x="989.8" y="225.0" width="25.8" height="105.0" fill="#2563eb"/>
+<rect x="1018.5" y="190.0" width="25.8" height="35.0" fill="#2563eb"/>
+<rect x="1047.2" y="190.0" width="25.8" height="35.0" fill="#2563eb"/>
+<text x="845.0" y="390" text-anchor="middle" font-size="12">Chip index</text>
+<text x="560" y="425" text-anchor="middle" font-size="14">Despread correlators recover every transmitted user bit without error</text></svg>

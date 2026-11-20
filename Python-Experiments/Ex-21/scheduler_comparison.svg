@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="480" viewBox="0 0 1120 480"><rect width="100%" height="100%" fill="white"/><style>text{font-family:Arial;fill:#172033}.g{stroke:#d9e0ec;stroke-dasharray:4 4}</style><text x="560" y="32" text-anchor="middle" font-size="21" font-weight="700">OFDMA scheduler throughput and fairness</text>
+<line class="g" x1="78" y1="370.0" x2="658" y2="370.0"/>
+<text x="70" y="374.0" text-anchor="end" font-size="10">0</text>
+<line class="g" x1="78" y1="328.6" x2="658" y2="328.6"/>
+<text x="70" y="332.6" text-anchor="end" font-size="10">1</text>
+<line class="g" x1="78" y1="287.1" x2="658" y2="287.1"/>
+<text x="70" y="291.1" text-anchor="end" font-size="10">2</text>
+<line class="g" x1="78" y1="245.7" x2="658" y2="245.7"/>
+<text x="70" y="249.7" text-anchor="end" font-size="10">3</text>
+<line class="g" x1="78" y1="204.3" x2="658" y2="204.3"/>
+<text x="70" y="208.3" text-anchor="end" font-size="10">4</text>
+<line class="g" x1="78" y1="162.9" x2="658" y2="162.9"/>
+<text x="70" y="166.9" text-anchor="end" font-size="10">5</text>
+<line class="g" x1="78" y1="121.4" x2="658" y2="121.4"/>
+<text x="70" y="125.4" text-anchor="end" font-size="10">6</text>
+<line class="g" x1="78" y1="80.0" x2="658" y2="80.0"/>
+<text x="70" y="84.0" text-anchor="end" font-size="10">7</text>
+<rect x="92.0" y="318.9" width="16" height="51.1" fill="#2563eb"/>
+<rect x="111.0" y="118.9" width="16" height="251.1" fill="#e4572e"/>
+<rect x="130.0" y="300.0" width="16" height="70.0" fill="#2a9d8f"/>
+<text x="126.33333333333334" y="388" text-anchor="middle" font-size="10">U1</text>
+<rect x="188.7" y="328.8" width="16" height="41.2" fill="#2563eb"/>
+<rect x="207.7" y="302.5" width="16" height="67.5" fill="#e4572e"/>
+<rect x="226.7" y="313.0" width="16" height="57.0" fill="#2a9d8f"/>
+<text x="223.0" y="388" text-anchor="middle" font-size="10">U2</text>
+<rect x="285.3" y="340.9" width="16" height="29.1" fill="#2563eb"/>
+<rect x="304.3" y="361.7" width="16" height="8.3" fill="#e4572e"/>
+<rect x="323.3" y="327.0" width="16" height="43.0" fill="#2a9d8f"/>
+<text x="319.66666666666663" y="388" text-anchor="middle" font-size="10">U3</text>
+<rect x="382.0" y="350.1" width="16" height="19.9" fill="#2563eb"/>
+<rect x="401.0" y="369.4" width="16" height="0.6" fill="#e4572e"/>
+<rect x="420.0" y="339.3" width="16" height="30.7" fill="#2a9d8f"/>
+<text x="416.3333333333333" y="388" text-anchor="middle" font-size="10">U4</text>
+<rect x="478.7" y="357.7" width="16" height="12.3" fill="#2563eb"/>
+<rect x="497.7" y="369.9" width="16" height="0.1" fill="#e4572e"/>
+<rect x="516.7" y="350.3" width="16" height="19.7" fill="#2a9d8f"/>
+<text x="513.0" y="388" text-anchor="middle" font-size="10">U5</text>
+<rect x="575.3" y="363.7" width="16" height="6.3" fill="#2563eb"/>
+<rect x="594.3" y="370.0" width="16" height="0.0" fill="#e4572e"/>
+<rect x="613.3" y="359.4" width="16" height="10.6" fill="#2a9d8f"/>
+<text x="609.6666666666666" y="388" text-anchor="middle" font-size="10">U6</text>
+<rect x="238" y="413" width="12" height="12" fill="#2563eb"/><text x="256" y="424" font-size="11">RR</text>
+<rect x="343" y="413" width="12" height="12" fill="#e4572e"/><text x="361" y="424" font-size="11">MaxCI</text>
+<rect x="448" y="413" width="12" height="12" fill="#2a9d8f"/><text x="466" y="424" font-size="11">PF</text>
+<text x="368.0" y="62" text-anchor="middle" font-size="16" font-weight="700">Per-user throughput (b/s/Hz)</text>
+<line class="g" x1="750" y1="370.0" x2="1050" y2="370.0"/>
+<text x="742" y="374.0" text-anchor="end" font-size="10">0</text>
+<line class="g" x1="750" y1="273.3" x2="1050" y2="273.3"/>
+<text x="742" y="277.3" text-anchor="end" font-size="10">3</text>
+<line class="g" x1="750" y1="176.7" x2="1050" y2="176.7"/>
+<text x="742" y="180.7" text-anchor="end" font-size="10">6</text>
+<line class="g" x1="750" y1="80.0" x2="1050" y2="80.0"/>
+<text x="742" y="84.0" text-anchor="end" font-size="10">9</text>
+<rect x="790" y="245.6" width="48" height="124.4" fill="#2563eb"/>
+<text x="814" y="238.6" text-anchor="middle" font-size="11">3.861</text>
+<text x="814" y="388" text-anchor="middle" font-size="11">RR</text>
+<text x="814" y="413" text-anchor="middle" font-size="11">J=0.741</text>
+<rect x="878" y="115.2" width="48" height="254.8" fill="#e4572e"/>
+<text x="902" y="108.2" text-anchor="middle" font-size="11">7.906</text>
+<text x="902" y="388" text-anchor="middle" font-size="11">MaxCI</text>
+<text x="902" y="413" text-anchor="middle" font-size="11">J=0.264</text>
+<rect x="966" y="190.3" width="48" height="179.7" fill="#2a9d8f"/>
+<text x="990" y="183.3" text-anchor="middle" font-size="11">5.576</text>
+<text x="990" y="388" text-anchor="middle" font-size="11">PF</text>
+<text x="990" y="413" text-anchor="middle" font-size="11">J=0.778</text>
+<text x="900.0" y="62" text-anchor="middle" font-size="16" font-weight="700">Total throughput and Jain fairness</text>
+</svg>

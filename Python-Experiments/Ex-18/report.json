@@ -1,0 +1,12 @@
+{
+  "number": 18,
+  "title": "Call Blocking Probability Using the Erlang B Formula",
+  "aim": "Calculate call blocking probability for a cell and find the number of channels needed for a target grade of service.",
+  "parameters": [
+    "Traffic loads E = 2, 5, 10, and 20 Erlangs",
+    "Channel counts m = 5, 10, 15, 20, 25, and 30",
+    "Target GoS = 2% at E = 10 Erlangs"
+  ],
+  "method": "Compute Erlang B recursively with B(E,0)=1 and B(E,k)=E*B(E,k-1)/(k+E*B(E,k-1)). Tabulate each load and channel count, then find the smallest m with B(10,m) <= 0.02.",
+  "result": "Blocking falls as channels increase and rises as offered traffic increases. At 10 Erlangs, 17 channels meet the 2% grade-of-service target."
+}

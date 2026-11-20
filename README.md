@@ -29,3 +29,17 @@ The Figma file contains the editable diagrams, prototypes, and wireframes. The i
 - [Experiment 16: Free-Space Path Loss and Received Power](Python-Experiments/Ex-16/README.md)
 
 - [Experiment 16 Word report with code and results](Python-Experiments/Ex-16/Experiment-16-Report.docx)
+
+- [Experiment 17 Frequency Reuse](Python-Experiments/Ex-17/README.md)
+- [Experiment 18 Erlang B Call Blocking](Python-Experiments/Ex-18/README.md)
+- [Experiment 19 Handoff with Hysteresis](Python-Experiments/Ex-19/README.md)
+- [Experiment 20 CDMA Spreading and Despreading](Python-Experiments/Ex-20/README.md)
+- [Experiment 21 OFDMA Scheduler Throughput and Fairness](Python-Experiments/Ex-21/README.md)
+
+## Python Programming Experiments
+
+- [Experiment 17: Frequency Reuse](Python-Experiments/Ex-17/README.md)
+- [Experiment 18: Erlang B Call Blocking](Python-Experiments/Ex-18/README.md)
+- [Experiment 19: Handoff with Hysteresis](Python-Experiments/Ex-19/README.md)
+- [Experiment 20: CDMA Spreading and Despreading](Python-Experiments/Ex-20/README.md)
+- [Experiment 21: OFDMA Scheduler Throughput and Fairness](Python-Experiments/Ex-21/README.md)
